@@ -1,0 +1,8 @@
+{
+    "Name": "Social interaction dyads",
+    "BIDSVersion": "TODO (depends when this PR will be merged)",
+    "Authors": ["Emalie McMahon", "Michael F. Bonner", "Leyla Isik"],
+  "PipelineDescription": {
+    "Name": "Social interaction dyads"
+}
+}

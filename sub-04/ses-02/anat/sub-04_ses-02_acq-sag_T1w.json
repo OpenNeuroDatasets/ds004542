@@ -1,0 +1,26 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPMPRAGE_CS",
+    "SeriesNumber": 2,
+    "AcquisitionNumber": 2,
+    "ImageComments": "#-#_g5_lisik3_Sidyads_004_211006",
+    "PhilipsRescaleSlope": 4.663,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00358176,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.0024,
+    "RepetitionTime": 0.0076,
+    "ImageOrientationPatientDICOM": [
+        -0.0375157,
+        0.996682,
+        -0.0722278,
+        0.00226893,
+        -0.0721936,
+        -0.997388
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20210317",
+    "Dcm2bidsVersion": "2.1.6"
+}

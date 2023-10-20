@@ -1,0 +1,29 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPDYLOC_ref",
+    "SeriesNumber": 10,
+    "AcquisitionNumber": 10,
+    "ImageComments": "#-#_g5_lisik3_Functional_002_210922",
+    "PhilipsRescaleSlope": 1.77851,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0203813,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.03,
+    "RepetitionTime": 5,
+    "ImageOrientationPatientDICOM": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20210317",
+    "Dcm2bidsVersion": "2.1.6",
+    "PhaseEncodingDirection": "j",
+    "TotalReadoutTime": 0.0768,
+    "EffectiveEchoSpacing": 0.00069
+}
